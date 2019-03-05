@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ab1837e-d1db-4886-96d2-ce2eaffdda3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FizzBuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/for_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avarage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/even.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/triangle.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,9 +15,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/even.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/triangle.py">
+        <entry file="file://$PROJECT_DIR$/Liczy.py">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/avarage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -47,6 +66,10 @@
         <option value="$PROJECT_DIR$/for_new.py" />
         <option value="$PROJECT_DIR$/FizzBuzz.py" />
         <option value="$PROJECT_DIR$/triangle.py" />
+        <option value="$PROJECT_DIR$/aeiouy.py" />
+        <option value="$PROJECT_DIR$/avarage.py" />
+        <option value="$PROJECT_DIR$/even.py" />
+        <option value="$PROJECT_DIR$/Liczy.py" />
       </list>
     </option>
   </component>
@@ -64,6 +87,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -75,7 +99,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -90,8 +113,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.FizzBuzz">
-    <configuration name="FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Liczy">
+    <configuration name="Liczy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SDA_DevOps" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FizzBuzz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Liczy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="find" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="aeiouy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SDA_DevOps" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/find.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aeiouy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="for_new" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="avarage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SDA_DevOps" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +168,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/for_new.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/avarage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rps" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="even" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SDA_DevOps" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,7 +189,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rps.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/even.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="while_new" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="triangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SDA_DevOps" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,7 +210,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while_new.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/triangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.FizzBuzz" />
-        <item itemvalue="Python.for_new" />
-        <item itemvalue="Python.find" />
-        <item itemvalue="Python.while_new" />
-        <item itemvalue="Python.rps" />
+        <item itemvalue="Python.Liczy" />
+        <item itemvalue="Python.even" />
+        <item itemvalue="Python.avarage" />
+        <item itemvalue="Python.aeiouy" />
+        <item itemvalue="Python.triangle" />
       </list>
     </recent_temporary>
   </component>
@@ -328,6 +351,34 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/triangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aeiouy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/avarage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/even.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Liczy.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
