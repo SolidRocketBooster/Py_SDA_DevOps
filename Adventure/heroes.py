@@ -1,5 +1,7 @@
-from races import Creature
+from races import Elf, Orc, Halfling
 
-gnoll = Creature(5)
+elf_1 = Elf(name='Legolas')
+orc_1 = Orc(name='Doo\'pa')
+halfling_1 = Halfling(name='Sam')
 
-print(gnoll.hp)
+print(str(orc_1))
